@@ -1,4 +1,3 @@
-#pragma once
 #ifndef _GFONT_H
 #define _GFONT_H
 
